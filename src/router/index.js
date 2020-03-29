@@ -5,9 +5,9 @@ Vue.use(VueRouter)
 
 import Login from '../views/login/Login'
 //const Login = () => import('../views/login/login')
-const Home = () => import("../views/home/Home")
-const Welcome = () => import('../views/home/childrencomponents/Welcome')
-const Users = () => import('../views/home/childrencomponents/Users')
+const Home = () => import("../views/Home")
+const Welcome = () => import('../views/welcome/Welcome')
+const Users = () => import('../views/users/Users')
 
 const routes = [{
     path: '',

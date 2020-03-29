@@ -124,7 +124,7 @@ import {
   editUserId,
   editByUserId,
   removeUerById
-} from '../../../network/users.js'
+} from '../../network/users.js'
 
 export default {
   name: 'Users',
