@@ -1,0 +1,23 @@
+{
+  "id": "1706570",
+  "name": "tubiao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3996616",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "9652339",
+      "name": "头像",
+      "font_class": "touxiang",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    }
+  ]
+}
